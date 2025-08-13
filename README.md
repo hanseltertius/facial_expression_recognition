@@ -67,3 +67,7 @@ Below are examples of how to use the image upload feature:
 ## Notes
 
 - Ensure you have Python 3.7+ installed.
+
+## Application Link
+
+- [HuggingFace Space](https://huggingface.co/spaces/hanseltertius/facial_expression_recognition)
