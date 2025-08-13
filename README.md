@@ -44,6 +44,26 @@ Application Batch 1.
 - `requirements.txt`: Python dependencies.
 - `README.md`: Project documentation.
 
+## Screenshots
+
+Below are examples of how to use the image upload feature:
+
+### 1. Upload an Image with a Single Face
+
+- Select an image containing one face.
+- The system will detect and display the facial expression for the detected
+  face.
+
+![Single Face Example](assets/screenshot_single_face.png)
+
+### 2. Upload an Image with Multiple Faces
+
+- Select an image containing multiple faces.
+- The system will detect all faces and display the facial expressions for each
+  detected face.
+
+![Multiple Faces Example](assets/screenshot_multiple_faces.png)
+
 ## Notes
 
 - Ensure you have Python 3.7+ installed.
