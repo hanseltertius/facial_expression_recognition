@@ -21,7 +21,7 @@ class_names = ['Angry', 'Disgust', 'Fear', 'Happy', 'Sad', 'Surprise', 'Neutral'
 
 # Step 3: Load RetinaFace model for face detection
 retinaface = RetinaFace(
-    model="retinaface_r34",  # Use ResNet34-based RetinaFace model
+    model_name="retinaface_r34",  # Use ResNet34-based RetinaFace model
     conf_thresh=0.3,         # Confidence threshold for face detection
     nms_thresh=0.3,          # Non-maximum suppression threshold
     input_size=1024,         # Input size for face detector
