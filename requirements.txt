@@ -1,10 +1,9 @@
 # Example requirements for facial expression recognition
-numpy
-pandas
-matplotlib
-opencv-python
-tensorflow
-keras
-scikit-learn
-jupyter
+torch 
+torchvision 
+transformers 
+datasets
+opencv-python 
+gradio 
+uniface 
 huggingface_hub
